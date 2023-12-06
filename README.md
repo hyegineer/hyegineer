@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=hyegineer%20github&desc=publishing,%20front-end&fontSize=40&fontColor=333333&Desc&descAlign=57.5&Desc&descAlignY=85)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=hyegineer%20github&desc=publishing&fontSize=40&fontColor=333333&Desc&descAlign=62.5&Desc&descAlignY=85)
 
 <h3 align="center">Skills</h3>
 <div align=center>
