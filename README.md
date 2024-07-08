@@ -7,5 +7,5 @@
 
 <h3 align="center">Blogs</h3>
 <div align=center>
-<a target="_blank" href="https://hyegineer.github.io/"><img alt="blog" href="https://hyegineer.github.io/" src ="https://img.shields.io/badge/Github blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://velog.io/@jeonghyegene/posts" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/velog-1fc392?style=flat-square"/></a>
+<a target="_blank" href="https://hyegineer.github.io/"><img alt="blog" href="https://hyegineer.github.io/" src ="https://img.shields.io/badge/Github blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://velog.io/@hyegineer/posts" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/velog-1fc392?style=flat-square"/></a>
 </div>
